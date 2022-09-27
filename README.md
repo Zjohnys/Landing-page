@@ -1,1 +1,1 @@
-Projeto de landing page imcompleto
+Projeto de landing page incompleto
